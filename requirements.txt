@@ -87,5 +87,5 @@ wsproto>=1.2.0
 zipp>=3.10.0
 zope.event>=4.5.0
 zope.interface>=5.5.1
-
+PyVirtualDisplay
 pydub~=0.25.1
